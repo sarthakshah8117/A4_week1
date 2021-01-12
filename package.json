@@ -1,0 +1,33 @@
+{
+  "name": "a4_week1",
+  "version": "1.0.0",
+  "description": "learning node and npm",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Hello from Node!\"",
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarthakshah8117/A4_week1.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "github"
+  ],
+  "author": "sarthak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarthakshah8117/A4_week1/issues"
+  },
+  "homepage": "https://github.com/sarthakshah8117/A4_week1#readme",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "underscore": "^1.12.0"
+  },
+  "devDependencies": {
+    "gulp-sass": "^4.1.0",
+    "nodemon": "^2.0.7"
+  }
+}
